@@ -1,0 +1,10 @@
+.multi-select {background-color: black;}
+.button {height: 56px; width: 90%;}
+.icon-search {cursor: pointer;}
+.image-serie {width: 100px; height: 120px;}
+.load {justify-content: center; display: flex; margin-top: 20px;}
+.not-found .message {text-align: center; font-size: 20px;}
+.not-found img{margin: auto; display: block;}
+.next-serie {background-color: aquamarine;}
+small.next { color: #66bb6a; }
+small.next .icon-next { font-size: 14px; }
